@@ -4,7 +4,7 @@ Today I Learned(TIL)
 - 커밋하는 행위에 집착하지 않고 커밋하는 내용에 중점을 둔다.
 
 ## 분류  
-### Spring   
+### Swift   
 - Spring 입문 강의
 - App
 ### Javascript
@@ -13,6 +13,8 @@ Today I Learned(TIL)
 - 클론 코딩(Momentum)
 ### React
 - React 입문 강의
+### Spring
+- Spring 기본편 
 ### Book
 - Clean Code
 ### Data Structure & Algorithm
